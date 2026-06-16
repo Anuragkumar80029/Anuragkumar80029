@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anurag
 
 ## About Me
-- 💻 Pursuing MCA Student
+- 💻 Pursuing MCA 
 - 🌱 Learning Full Stack JAVA
 - 🚀 Building Web Applications
 
